@@ -19,6 +19,8 @@ import React from "react";
 //   document.getElementById("root")
 // );
 
+// testing git 
+
 const root = ReactDOM.createRoot(document.getElementById("root"));
 // const store = createStore(rootReducers);
 const store = configureStore({reducer: rootReducers});
